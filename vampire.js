@@ -1,3 +1,10 @@
+// As you obviously know, all vampires are obsessed with lineage.
+// "Who turned me into a vampire?"
+// "Who turned that vampire into a vampire?"
+// "How many descendants of the original vampire am I?"
+// These are the most important questions for vampires.
+
+
 class Vampire {
   constructor(name, yearConverted) {
     this.name = name;
